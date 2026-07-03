@@ -1,25 +1,23 @@
 # 👋 Hi there, I'm Ari Indhiran
 
-### 🚀 Full Stack Developer | MERN Stack | Next.js | Java | AI Enthusiast
+### 🎓 Computer Science Student | Aspiring Full Stack Developer
 
 <img align="right" width="350" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif">
 
-- 🌱 Currently learning **Next.js, TypeScript & Advanced Backend Development**
-- 💻 Passionate about **Full Stack Web Development**
-- 🤖 Exploring **AI Integration in Web Applications**
-- 📚 Solving **DSA Problems** regularly
-- 🎯 Goal: Become a Software Engineer at a Top Product Company
-- ⚡ Fun Fact: I enjoy building projects more than watching tutorials.
+* 🌱 Currently learning **JavaScript** and **Next.js**
+* 💻 Passionate about Web Development and Problem Solving
+* 📚 Practicing **Data Structures & Algorithms**
+* 🤖 Exploring AI and modern web technologies
+* 🎯 Goal: Become a Software Engineer at a Top Product Company
+* ⚡ I love building projects and learning by doing.
 
 ---
 
-## 🌐 Connect with Me
+# 🌐 Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](YOUR_LINKEDIN)
-
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)](https://github.com/YOUR_USERNAME)
-
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](YOUR_PORTFOLIO)
+* LinkedIn: https://www.linkedin.com/in/ari-indhiran-6a8a02380?utm_source=share_via&utm_content=profile&utm_medium=member_android
+* GitHub: https://github.com/YOUR_USERNAME
+* Portfolio:https://webresume-60073056287.development.catalystserverless.in/app/index.html
 
 ---
 
@@ -27,19 +25,11 @@
 
 ### Languages
 
-<img src="https://skillicons.dev/icons?i=java,js,html,css,c,cpp,python"/>
-
-### Frontend
-
-<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,bootstrap"/>
-
-### Backend
-
-<img src="https://skillicons.dev/icons?i=nodejs,express"/>
+<img src="https://skillicons.dev/icons?i=java,js,html,css"/>
 
 ### Database
 
-<img src="https://skillicons.dev/icons?i=mongodb,mysql"/>
+<img src="https://skillicons.dev/icons?i=mysql"/>
 
 ### Tools
 
@@ -47,42 +37,22 @@
 
 ---
 
-# 🚀 Currently Learning
+# 📚 Currently Learning
 
-- Next.js
-- TypeScript
-- MongoDB Optimization
-- AI APIs
-- System Design
+* JavaScript (Advanced)
+* Next.js
+* SQL
+* Data Structures & Algorithms
+* AI Fundamentals
 
 ---
 
 # 📊 GitHub Stats
 
-![](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&theme=tokyonight&show_icons=true)
+---
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight)
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight)
+# leetcode 
 
 ---
 
-# 🔥 GitHub Activity
-
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=github-compact)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
----
-
-# 🏆 GitHub Trophies
-
-![](https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=tokyonight&no-frame=true&margin-w=10)
-
----
-
-# 💡 Quote
-
-> "Consistency beats motivation."
-
----
-
-⭐ Thanks for visiting my profile!
+>
