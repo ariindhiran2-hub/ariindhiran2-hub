@@ -13,7 +13,7 @@ I am a Engineering Student
 - How To Reach Me:
 <br /> [<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />](ariindhiran2@gmail.com) <br /> [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/ari-indhiran-6a8a02380?utm_source=share_via&utm_content=profile&utm_medium=member_android) <br/> 
 
-### I code in
+### I code in ###
 <img src="https://skillicons.dev/icons?i=java,js,html,css"/>
 
 ### Database
