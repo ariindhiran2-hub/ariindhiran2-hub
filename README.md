@@ -5,7 +5,20 @@ I am a Engineering Student
 - 🔭 Here's my [portfolio](https://webresume-60073056287.development.catalystserverless.in/app/index.html)                                                 
 - 🌱 I’m currently learning and Teaching DSA and Integrating AI to my workflow
 - 💻 I am looking for help with placement in FAANG
-- 🌐Ask Me About Tech 
+- 🎓 Computer Science Student
+- 💻 Passionate about Software Development
+- 🌱 Currently learning JavaScript & node.js
+- 📚 Practicing Data Structures & Algorithms
+- 🛠️ Building real-world projects to improve my skills
+- 🤖 Exploring Artificial Intelligence
+- 🚀 Open to internships and collaboration
+- 🎯 Goal: Become a Software Engineer at a Top Product Company
+- 📖 Always learning something new every day
+- ⚡ Learning by building, not just watching tutorials
+- 🌍 Interested in Open Source Contributions
+- 🧩 Strong believer in clean, readable code
+- 💡 Turning ideas into real-world applications
+- ☕ Milk tea+ Clean Environment + Code = Productivity
 - 🎓 College at **Universal College of Engineering** <a href="https://www.ksrce.ac.in/">
     <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRDhi3BEUBw1C4Qee4Xe0GB2adBKHIjNkAOjgANW86kAw&s=10" width="50" height="50" alt="ucet Logo">
 - I am a computer Science Student 
