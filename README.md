@@ -6,33 +6,26 @@ I am a Engineering Student
 - 🌱 I’m currently learning and Teaching DSA and Integrating AI to my workflow
 -  iam looking for help with placement in FAANG
 -  Ask Me About Tech 🌐
--  
- - 🎓 College at **K.S.R. College of Engineering**
-  <a href="https://www.ksrce.ac.in/">
-    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRDhi3BEUBw1C4Qee4Xe0GB2adBKHIjNkAOjgANW86kAw&s=10"
-         width="50"
-         height="50"
-         alt="KSRCE Logo">
-  </a>
-
+  🎓 College at **Universal College of Engineering** <a href="https://www.ksrce.ac.in/">
+    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRDhi3BEUBw1C4Qee4Xe0GB2adBKHIjNkAOjgANW86kAw&s=10" width="50" height="50" alt="ucet Logo"> /a>
 - I am a computer Science Student 
-- ⚡ Fun fact: I know drawing anime characters,.
+- ⚡ Fun fact: I know drawing anime characters,illuustrations.
 - How To Reach Me:
 <br /> [<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />](ariindhiran2@gmail.com) <br /> [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/ari-indhiran-6a8a02380?utm_source=share_via&utm_content=profile&utm_medium=member_android) <br/> 
 
 ### I code in
-<img height="50" width="50" src="https://img.icons8.com/color/48/000000/python.png" /> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/c-programming.png" /> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png" /> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" /> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/html-5.png" /> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/css3.png" /> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/sass.png"/> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/bootstrap.png" />
-<img height="50" width="50" src="https://img.icons8.com/color/48/000000/javascript.png"/><img height="50" width="50" src="https://img.icons8.com/color/48/000000/tensorflow.png"/><img height="50" width="50" src="https://img.icons8.com/fluent/48/000000/arduino.png"/> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/react-native.png"/> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/google-firebase-console.png"/> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/mysql-logo.png"/> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/mongodb.png"/> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/nodejs.png"/> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/spring-logo.png"/> <img height="50" width="50" src="https://img.icons8.com/fluency/48/000000/handlebar-mustache.png"/> <img height="50" width="50" src="https://img.icons8.com/color/48/null/graphql.png"/>
+<img src="https://skillicons.dev/icons?i=java,js,html,css"/>
 
+### Database
+<img src="https://skillicons.dev/icons?i=mysql"/>
 ### IDE and Tools I Use
-<img height="50" width="50" src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"/> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/pycharm.png"/> <img height="50" width="50" src="https://img.icons8.com/color/50/000000/git.png"/> <img height="50" width="50" src="https://img.icons8.com/dusk/64/000000/anaconda.png"/> <img height="50" src="https://img.icons8.com/officel/480/null/java-eclipse.png"/> <img height="50" src="https://img.icons8.com/color/480/null/notion--v1.png" /> <img height="50" width="50" src="https://img.icons8.com/doodle/48/000000/adobe-photoshop.png"/> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/figma--v1.png"/> <img height="50" src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white"/> <img height="50" src="https://img.shields.io/badge/Adobe%20XD-FF61F6?style=for-the-badge&logo=Adobe%20XD&logoColor=white"/>
+<img src="https://skillicons.dev/icons?i=vscode,git,github,postman,figma,canva,intellij,"/>
 
 
 ### 💻 Workspace Spec
-<img height="30" src="https://img.shields.io/badge/Macbook-Pro_M1-ED1C24?style=for-the-badge&logo=apple&logoColor=white"/> <img height="30" src="https://img.shields.io/badge/NVIDIA-GTX1650-76B900?style=for-the-badge&logo=nvidia&logoColor=white"/>  <img height="30" src="https://img.shields.io/badge/AMD-Ryzen_5_4600H-ED1C24?style=for-the-badge&logo=amd&logoColor=white"/> 
+ <img height="30" src="https://img.shields.io/badge/AMD-Ryzen_5_7020U-ED1C24?style=for-the-badge&logo=amd&logoColor=white"/> 
 
-![Hareesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=hareesh-r&theme=dark&show_icons=true&&hide=issues,contribs)
+![LeetCode Stats](https://leetcard.jacoblin.cool/ARI_INDHIRAN?theme=dark&font=Space%20Grotesk&ext=activity)
 
-[![Leetcode Stats](https://leetcard.jacoblin.cool/hareeshprogrammer?ext=contest&theme=dark)](https://leetcode.com/hareeshprogrammer)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ariindhiran2-hub&bg_color=000000&color=ff7b00&line=00ff1e&point=00ff1e&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-[![Hareesh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=hareesh-r&bg_color=000000&color=ffffff&line=51f565&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph) itha enaku etham,ari m,athikudu
