@@ -1,13 +1,13 @@
-## Hi there 👋 It's me Hareesh
+## Hi there 👋 It's me ARI_INDHIRAN
 
 I am a Engineering Student
 <img align="right" width="370" height="290" src="https://i.pinimg.com/originals/47/f0/34/47f0342cec72b800463bf003eac1257e.gif">
 - 🔭 Here's my [portfolio](https://webresume-60073056287.development.catalystserverless.in/app/index.html)                                                 
 - 🌱 I’m currently learning and Teaching DSA and Integrating AI to my workflow
--  iam looking for help with placement in FAANG
--  Ask Me About Tech 🌐
-  🎓 College at **Universal College of Engineering** <a href="https://www.ksrce.ac.in/">
-    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRDhi3BEUBw1C4Qee4Xe0GB2adBKHIjNkAOjgANW86kAw&s=10" width="50" height="50" alt="ucet Logo"> /a>
+- 💻 I am looking for help with placement in FAANG
+- 🌐Ask Me About Tech 
+- 🎓 College at **Universal College of Engineering** <a href="https://www.ksrce.ac.in/">
+    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRDhi3BEUBw1C4Qee4Xe0GB2adBKHIjNkAOjgANW86kAw&s=10" width="50" height="50" alt="ucet Logo">
 - I am a computer Science Student 
 - ⚡ Fun fact: I know drawing anime characters,illuustrations.
 - How To Reach Me:
