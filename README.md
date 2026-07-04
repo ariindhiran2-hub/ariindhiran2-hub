@@ -18,7 +18,8 @@ I am a Engineering Student
 
 ### Database
 <img src="https://skillicons.dev/icons?i=mysql"/>
-### IDE and Tools I Use
+
+### IDE and Tools I Use ###
 <img src="https://skillicons.dev/icons?i=vscode,git,github,postman,figma,canva,intellij,"/>
 
 
