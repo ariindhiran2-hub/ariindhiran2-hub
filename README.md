@@ -7,17 +7,13 @@ I am a Engineering Student
 -  iam looking for help with placement in FAANG
 -  Ask Me About Tech 🌐
 -  
-```md
-- 🎓 College at **K.S.R. College of Engineering**
+ - 🎓 College at **K.S.R. College of Engineering**
   <a href="https://www.ksrce.ac.in/">
     <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRDhi3BEUBw1C4Qee4Xe0GB2adBKHIjNkAOjgANW86kAw&s=10"
          width="50"
          height="50"
          alt="KSRCE Logo">
   </a>
-```
-
-```
 
 - I am a computer Science Student 
 - ⚡ Fun fact: I know drawing anime characters,.
