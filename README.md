@@ -4,7 +4,7 @@ I am a Engineering Student<img align="right" width="370" height="290" src="https
 - 💻 I am looking for help with placement in FAANG
 - 🎓 Computer Science Student
 - 🔭 Here's my [portfolio](https://webresume-60073056287.development.catalystserverless.in/app/index.html)                                       
-- 🎓 College at **Universal College of Engineering** <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRDhi3BEUBw1C4Qee4Xe0GB2adBKHIjNkAOjgANW86kAw&s=10" width="70" height="45" alt="ucet Logo">
+- 🎓 College at [**Universal College of Engineering**](https://www.justdial.com/Tirunelveli/Universal-College-Of-Engineering-Technology-Near-Arts-College-Vallioor/0462PX462-X462-140623125700-K6I6_BZDET) <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRDhi3BEUBw1C4Qee4Xe0GB2adBKHIjNkAOjgANW86kAw&s=10" width="70" height="45" alt="ucet Logo">
 - I am a computer Science Student 
 - ⚡ Fun fact: I know drawing anime characters,illuustrations.
 - How To Reach Me:
